@@ -1,4 +1,4 @@
-# NiFTy
+# NiFTy [README UNFINISHED]
 NiFTy is a python based image generation program
 
 # Initial Setup
