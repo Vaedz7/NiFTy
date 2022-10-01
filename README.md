@@ -7,13 +7,19 @@ Installation is very simple
 Just run ``pip install niftygen2``
 
 PIP INSTALLATION DETAILS
+
 Version: 2.1.0
+
 Stability: Minimal Testing (Stable)
 
+
 Version: 2.0.1
+
 Stability: Tested (Stable)
 
+
 Version 1.0.0
+
 Stability: Tested (Unstable)
 
 # Initial Setup
