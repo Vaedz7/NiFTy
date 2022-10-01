@@ -73,3 +73,4 @@ Finish your program and run
 
 # Notices
 - v2.1.0 has had minimal testing (USE AFTER TESTING YOUR PROGRAM)
+- Add / at the end of your path to prevent errors
