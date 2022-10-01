@@ -1,6 +1,11 @@
 # NiFTy
 NiFTy is a python based image generation program
 
+# How to install
+Installation is very simple
+
+Just run ``pip install niftygen2``
+
 # Initial Setup
 STEP 1
 -
