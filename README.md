@@ -29,7 +29,11 @@ Finish your program and run
 
 # Usage
 nifty.set_layers(layers): Set the amount of layers generated
+
 nifty.set_directory(layer, path): Set the path to the folder for a layer
+
 nifty.save_to(path): Set the path to the folder where results are saved
+
 nifty.generate(code): Generate image based on code
+
 *Example in sample.py*
