@@ -9,6 +9,6 @@ nifty.save_to("users/vaedz/documents/generations/")
 
 nifty.generate(69)
 
-result = open("users/vaedz/documents/generations/69.png", rb)
+result = open("users/vaedz/documents/generations/69.png", "rb")
 result.show()
 result.close()
